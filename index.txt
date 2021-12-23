@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Bird Hunt</title>
+     <link rel="codesheet" type="text/css" href="code.css">
+</head>
+
+<body>
+     <input type="checkbox" id="bird1">
+     <label for= "bird1" class="bird"></label>
+</body>
+
+</html>
